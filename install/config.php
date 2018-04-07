@@ -5,7 +5,7 @@
 
 	// Do NOT touch this! //
 	define( "__INSTALL__", true );
-	define( "__TEMPLATE__", __DIR__ . "/../../template/" )
+	define( "__TEMPLATE__", __DIR__ . "/../../template/" );
 
 	// CTF Mode, not yet implemented. //
 	define( "__CTF__", false );
